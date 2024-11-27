@@ -8,7 +8,7 @@
 
 ### Coming soon to your campus!
 
-## Designed and developed myself in a few months using SwiftUI frontend + Firebase backend + nodejs and render to deploy the server to host the stripe payment system communication.
+### Designed and developed myself in a few months using SwiftUI frontend + Firebase backend + nodejs and render to deploy the server to host the stripe payment system communication.
 
-### Download now in the AppStore
+## Download now in the AppStore
 # https://apps.apple.com/us/app/unipop-app/id6504735990
