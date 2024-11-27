@@ -5,7 +5,7 @@
     <key>MinimumOSVersion</key>
     <string>17.0</string>
 	<key>API_KEY</key>
-	<string>AIzaSyCtASjVTsDS0sSpJhgU7axOZ1iJM0CiW2Q</string>
+	<string>{ENV.APIKEY}</string>
 	<key>GCM_SENDER_ID</key>
 	<string>1069046626279</string>
 	<key>PLIST_VERSION</key>
@@ -27,6 +27,6 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true/>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:1069046626279:ios:c794c8f1fc8138a3452f42</string>
+	<string>1:1069046626279:ios:{ENV.ID}</string>
 </dict>
 </plist>
