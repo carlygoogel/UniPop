@@ -1,5 +1,4 @@
 # UniPop App
-
 ## Your College Marketplace. 
 
 ### Buy, sell and browse cool items at your university. Declutter your dorm room. Have fun making money as a college student. 
